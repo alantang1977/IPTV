@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026-02-13" tvg-logo="https://raw.githubusercontent.com/alantang1977/X/main/Pictures/SuperMAN.png" group-title="更新日期",2026-02-13
+#EXTINF:-1 tvg-id="1" tvg-name="2026-02-14" tvg-logo="https://raw.githubusercontent.com/alantang1977/X/main/Pictures/SuperMAN.png" group-title="更新日期",2026-02-14
 https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/大湾区卫视.png" group-title="广东频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8$IPV6
@@ -3026,11 +3026,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott
 #EXTINF:-1 tvg-id="3" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/NewTV惊悚悬疑.png" group-title="影视频道",NewTV惊悚悬疑
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/NewTV惊悚悬疑.png" group-title="影视频道",NewTV惊悚悬疑
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8$IPV6•线路4
-#EXTINF:-1 tvg-id="5" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/NewTV惊悚悬疑.png" group-title="影视频道",NewTV惊悚悬疑
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989$IPV6•线路5
-#EXTINF:-1 tvg-id="6" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/NewTV惊悚悬疑.png" group-title="影视频道",NewTV惊悚悬疑
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8$IPV6•线路6
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989$IPV6•线路4
 #EXTINF:-1 tvg-id="1" tvg-name="黑莓电影" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/黑莓电影.png" group-title="影视频道",黑莓电影
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225764/2/index.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="黑莓电影" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/黑莓电影.png" group-title="影视频道",黑莓电影
